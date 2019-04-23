@@ -13,7 +13,7 @@ public class Test1 {
 		// создание объекта Calc с передачей параметров
 		Calc a = new Calc(500, 30, 150);
 		// сравнение результатов
-		assertEquals(a.getFuel(),"151.0");
+		assertEquals(a.getFuel(),"150.0");
 	}
 
 }
