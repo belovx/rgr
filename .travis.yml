@@ -3,7 +3,7 @@ jdk:
   - oraclejdk8
   - oraclejdk9
   - openjdk8
-  matrix:
+matrix:
   - JOB="./gradlew build"
 
 script: "$JOB"
