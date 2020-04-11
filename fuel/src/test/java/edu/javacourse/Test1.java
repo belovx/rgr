@@ -1,4 +1,4 @@
-package fuel;
+package edu.javacourse;
 
 import static org.junit.Assert.*;
 

@@ -31,7 +31,7 @@
           <artifactId>exec-maven-plugin</artifactId>
           <version>1.6.0</version>
           <configuration>
-            <mainClass>fuel.Start</mainClass>
+            <mainClass>edu.javacourse.Start</mainClass>
           </configuration>
        </plugin>
     </plugins>

@@ -1,4 +1,4 @@
-package fuel;
+package edu.javacourse;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;

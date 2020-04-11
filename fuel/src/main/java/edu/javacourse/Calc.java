@@ -1,4 +1,4 @@
-package fuel;
+package edu.javacourse;
 
 //класс Calc для вычисления расхода топлива
 public class Calc {

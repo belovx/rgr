@@ -1,4 +1,4 @@
-package fuel;
+package edu.javacourse;
 
 //главный класс в котором запускаем  GUI
 public class Start {
